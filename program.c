@@ -7,7 +7,7 @@ scanf_s("%d%d",&a,&b);
 
 p=a*b;
 printf("Ispis rezultata je %d",p);
-
+scanf_s("%d%d",&a,&b)
 
 return 0;
 }
